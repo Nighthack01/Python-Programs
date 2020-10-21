@@ -1,4 +1,4 @@
- # Check /favicon.ico
+ # Check /favicon.ico .
 
 import mmh3
 import requests
